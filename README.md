@@ -1,7 +1,7 @@
 ### Hi there, I'm Julio Ishikawa 👋
 
 #### About
-I'm a Software Developer. And, I'm studying web development at [Rocketseat](https://rocketseat.com.br/) :rocket:.
+I'm a Software Developer studying web development at Rocketseat 🚀 while pursuing a Bachelor's degree in Computer Science at Estácio College.
 
 #### Current stack
 - 🔥 Main language: `JavaScript`, `TypeScript`
